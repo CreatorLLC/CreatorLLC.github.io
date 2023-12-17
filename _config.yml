@@ -11,3 +11,6 @@ github_username:  creatorllc
 # Build settings
 markdown: kramdown
 permalink: /:year:title:output_ext
+
+plugins:
+  - jekyll-feed
