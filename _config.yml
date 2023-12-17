@@ -2,7 +2,7 @@
 title: Creator LLC
 email: creator.ai.llc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Creator LLC develops various creation platforms. Creator LLC focuses on developing advanced AI technologies for video content creation, which serves short video creators, movie makers, etc.
+  Creator LLC develops content creation platforms. Creator LLC focuses on developing advanced AI technologies for video content creation, which serves short video creators, movie makers, etc.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://creatorllc.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
