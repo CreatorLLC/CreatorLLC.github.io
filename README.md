@@ -1,4 +1,4 @@
-example
+Creator LLC
 =======
 
-Jekyll example Project site
+Creator LLC Project site
