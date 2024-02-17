@@ -11,5 +11,6 @@ Amazon hides cheaper items with faster delivery, lawsuit alleges
 
 Hundreds of millions of Amazon's US customers have overpaid, class action says.
 
-https://arstechnica.com/tech-policy/2024/02/amazons-algorithm-deliberately-hides-the-best-deals-lawsuit-claims/
+Check out <[https://stackoverflow.com](https://arstechnica.com/tech-policy/2024/02/amazons-algorithm-deliberately-hides-the-best-deals-lawsuit-claims/)https://arstechnica.com/tech-policy/2024/02/amazons-algorithm-deliberately-hides-the-best-deals-lawsuit-claims/> for more details.
+
 
