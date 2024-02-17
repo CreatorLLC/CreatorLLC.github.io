@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toxic Amazon: A Customer Cheating Company. Stop Prime!"
+title:  "Toxic Amazon Cheats Customers"
 date:   2023-02-16 17:05:30
 categories: Creator LLC update
 ---
